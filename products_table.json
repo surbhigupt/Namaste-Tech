@@ -1,1 +1,32 @@
-{"product_id":{"0":278266679,"1":477365777,"2":510650809,"3":573794972,"4":632910392,"5":694165761},"product_sku":{"0":"GPSTASH-01","1":"GOGPR-07","2":"PAX-3","3":"SAGENSOUR-01","4":"PPLEPUNCH20-05","5":"HYBTINC-03"},"product_name":{"0":"Grandpa's Stash Dried Flower","1":"Glueberry OG Pre-Rolls","2":"Pax 3 Vaporizer","3":"Sage N Sour Dried Flower","4":"Purple Punch 2.0 Dried Flower","5":"Hybrid Blend THC Tincture"}}
+[
+	{
+		"product_id" : 278266679,
+		"product_sku" : "GPSTASH-01",
+		"product_name" : "Grandpa's Stash Dried Flower"
+	},
+	{
+		"product_id" : 477365777,
+		"product_sku" : "GOGPR-07",
+		"product_name" : "Glueberry OG Pre-Rolls"
+	},
+	{
+		"product_id" : 510650809,
+		"product_sku" : "PAX-3",
+		"product_name" : "Pax 3 Vaporizer"
+	},
+	{
+		"product_id" : 573794972,
+		"product_sku" : "SAGENSOUR-01",
+		"product_name" : "Sage N Sour Dried Flower"
+	},
+	{
+		"product_id" : 632910392,
+		"product_sku" : "PPLEPUNCH20-05",
+		"product_name" : "Purple Punch 2.0 Dried Flower"
+	},
+	{
+		"product_id" : 694165761,
+		"product_sku" : "HYBTINC-03",
+		"product_name" : "Hybrid Blend THC Tincture"
+	}
+]
