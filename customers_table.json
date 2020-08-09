@@ -1,1 +1,22 @@
-{"customer_id":{"0":23955,"1":47178,"2":59933,"3":94720},"customer_name":{"0":"Daniel Smith","1":"William Doe","2":"Ethan Jones","3":"Emile Tumson"},"customer_email":{"0":"daniel.smith@gmail.com","1":"william.doe@gmail.com","2":"ethan.jones@gmail.com","3":"emile.tumson@gmail.com"}}
+[
+	{
+		"customer_id" : 23955,
+		"customer_name" : "Daniel Smith",
+		"customer_email" : "daniel.smith@gmail.com"
+	},
+	{
+		"customer_id" : 47178,
+		"customer_name" : "William Doe",
+		"customer_email" : "william.doe@gmail.com"
+	},
+	{
+		"customer_id" : 59933,
+		"customer_name" : "Ethan Jones",
+		"customer_email" : "ethan.jones@gmail.com"
+	},
+	{
+		"customer_id" : 94720,
+		"customer_name" : "Emile Tumson",
+		"customer_email" : "emile.tumson@gmail.com"
+	}
+]
