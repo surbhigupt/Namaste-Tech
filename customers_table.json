@@ -1,0 +1,22 @@
+[
+	{
+		"customer_id" : 23955,
+		"customer_name" : "Daniel Smith",
+		"customer_email" : "daniel.smith@gmail.com"
+	},
+	{
+		"customer_id" : 47178,
+		"customer_name" : "William Doe",
+		"customer_email" : "william.doe@gmail.com"
+	},
+	{
+		"customer_id" : 59933,
+		"customer_name" : "Ethan Jones",
+		"customer_email" : "ethan.jones@gmail.com"
+	},
+	{
+		"customer_id" : 94720,
+		"customer_name" : "Emile Tumson",
+		"customer_email" : "emile.tumson@gmail.com"
+	}
+]
